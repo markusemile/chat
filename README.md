@@ -1,13 +1,21 @@
 # chat
-Chat in php - API- oop - ajax - js vanilla - bootstrap5
 
-Réalisation d'un chat pour ma fille, pour qu'elle puisse papoter avec ses copines de classe.
+Chat in php - API- OPP - AJAX - JS Vanilla - Bootstrap 5
 
-Travail toujours en cours...
+Realization of a chat for my daughter, so that she can chat with her classmates.
 
-Amélioration à apporter
- - Personnalisation du profil avec photo
- - Ajout profil couleur
- - Ajouter option image dans le chat
- - Ajouter une vérification plus poussé pour l'authentification
- - Ajouter vérification du texte envoyer
+<p flaot="left">
+  <img src="https://github.com/markusemile/chat/blob/main/chatPhp1.png" height='400px'>
+ <img src="https://github.com/markusemile/chat/blob/main/chatPhp2.png" height='400px'>
+ <img src="https://github.com/markusemile/chat/blob/main/chatPhp3.png" height='400px'>
+ <img src="https://github.com/markusemile/chat/blob/main/chatPhp4.png" width='400px'>
+</p>
+
+Work in progress...
+
+Improvement to be made
+ - Profile customization with photo
+ - Added color profile
+ - Add image option in chat
+ - Add further verification for authentication
+ - Add text verification send
