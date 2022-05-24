@@ -6,10 +6,10 @@ use PDO;
 
 class DbConnect{
 
-    private $host="ns379959.ip-5-196-70.eu";
-    private $dbname="c3apitest";
-    private $user="c3markuemile";
-    private $password="FEg6M5x!pGc";
+    private $host="-------";
+    private $dbname="-----";
+    private $user="------";
+    private $password="-------";
     public $pdo;
 
     public function  __construct()
