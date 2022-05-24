@@ -3,10 +3,6 @@ namespace App\Controllers;
 
 
 
-use function extract;
-use function http_build_query;
-use function urldecode;
-use function urlencode;
 
 class PageController{
 
