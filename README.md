@@ -19,3 +19,6 @@ Improvement to be made
  - Add image option in chat
  - Add further verification for authentication
  - Add text verification send
+ 
+ 
+ [test It](http://myiptest.be/chatbox)
