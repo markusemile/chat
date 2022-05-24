@@ -5,25 +5,7 @@ namespace  App\Controllers;
 use App\Database\DbConnect;
 use App\Models\Message;
 use App\Models\User;
-use DateInterval;
-use DateTime;
-use function array_reverse;
-use function date;
-use function extract;
-use function gettype;
-use function hex2bin;
-use function htmlentities;
-use function intval;
-use function is_array;
-use function json_encode;
-use function openssl_random_pseudo_bytes;
-use function password_hash;
-use function str_replace;
-use function strtotime;
-use function strval;
-use function urldecode;
-use function var_dump;
-use const PASSWORD_DEFAULT;
+
 
 class ApiController{
     public $db;
